@@ -34,7 +34,7 @@ This file is used to list out the dependecies needed in your project. This hold 
 ### **Server.js file**
 
 ```shell
-./homework-unit-14
+./reverse-engineering-code
 └── server.js
 ```
 
